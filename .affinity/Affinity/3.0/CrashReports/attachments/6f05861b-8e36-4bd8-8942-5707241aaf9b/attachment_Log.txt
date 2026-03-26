@@ -1,0 +1,43 @@
+[2025-12-11T17:12:41.181+03:00] Affinity 3
+[2025-12-11T17:12:41.181+03:00] IsSandboxed: Yes
+[2025-12-11T17:12:41.181+03:00] AppDataPathForCurrentUser: C:\Users\getan\.affinity\Affinity\3.0
+[2025-12-11T17:12:41.181+03:00] AppDataPathForCurrentUserPersisted: C:\Users\getan\.affinity\Affinity\3.0
+[2025-12-11T17:12:41.182+03:00] AppDataPathForAllUsers: C:\ProgramData\Affinity\Affinity\3.0
+[2025-12-11T17:12:41.182+03:00] CommonDataPathForCurrentUser: C:\Users\getan\AppData\Local\Publishers\8a0j1tnjnt4a4\Affinity\Common\3.0
+[2025-12-11T17:12:41.182+03:00] CommonDataPathForCurrentUserPersisted: C:\Users\getan\.affinity\Common\3.0
+[2025-12-11T17:12:41.182+03:00] CommonDataPathForCurrentUserPersistedBuildInvariant: C:\Users\getan\.affinity\Common\3.0
+[2025-12-11T17:12:41.183+03:00] CommonDataPathForAllUsers: C:\ProgramData\Affinity\Common\3.0
+[2025-12-11T17:12:41.183+03:00] TempPathForCurrentUser: C:\Users\getan\.affinity\Affinity\3.0\temp
+[2025-12-11T17:12:43.288+03:00] Looking for WebView2 installation
+[2025-12-11T17:12:43.327+03:00] 	Found WebView2 version 142.0.3595.94
+[DXCore] Found 2 adapters
+Intel(R) Iris(R) Xe Graphics
+	Version: 31.0.101.5186
+	IsHardware: Yes
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_8086&DEV_9A49&SUBSYS_87FE103C0000&REV_01
+	LUID: 0x121D2
+Microsoft Basic Render Driver
+	Version: 10.0.22621.5415
+	IsHardware: No
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x14D6B
+[DXGI] Enumerating adapters
+Intel(R) Iris(R) Xe Graphics
+	HardwareID: PCI\VEN_8086&DEV_9A49&SUBSYS_87FE103C0000&REV_01
+	LUID: 0x121D2
+Microsoft Basic Render Driver
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x14D6B
+[OpenCL] Found 1 platforms:
+Name: Intel(R) OpenCL Graphics
+	Vendor: Intel(R) Corporation
+	Version: OpenCL 3.0 
+[OpenCL] Found 1 devices for platform Intel(R) OpenCL Graphics:
+Intel(R) Iris(R) Xe Graphics
+	Vendor: Intel(R) Corporation
+	Version: OpenCL 3.0 NEO 
+	Integrated: true
+	Detachable: false
+[2025-12-11T17:12:45.318+03:00] 	Installed

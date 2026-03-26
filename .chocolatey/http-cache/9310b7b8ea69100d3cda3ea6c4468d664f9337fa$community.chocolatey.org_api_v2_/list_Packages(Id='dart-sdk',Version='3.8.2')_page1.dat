@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="http://community.chocolatey.org/api/v2/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>http://community.chocolatey.org/api/v2/Packages(Id='dart-sdk',Version='3.8.2')</id>
+  <title type="text">dart-sdk</title>
+  <summary type="text">The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
+  <updated>2025-07-17T14:05:10Z</updated>
+  <author>
+    <name>The Dart project authors</name>
+  </author>
+  <link rel="edit-media" title="V2FeedPackage" href="Packages(Id='dart-sdk',Version='3.8.2')/$value" />
+  <link rel="edit" title="V2FeedPackage" href="Packages(Id='dart-sdk',Version='3.8.2')" />
+  <category term="CCR.Website.V2FeedPackage" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/zip" src="https://community.chocolatey.org/api/v2/package/dart-sdk/3.8.2" />
+  <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <d:Version>3.8.2</d:Version>
+    <d:Title>Dart SDK</d:Title>
+    <d:Description>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
+
+Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Angular2 or Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps on the web or mobile with the Flutter platform.</d:Description>
+    <d:Tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</d:Tags>
+    <d:Copyright m:null="true"></d:Copyright>
+    <d:Created m:type="Edm.DateTime">2025-07-17T08:01:33.687</d:Created>
+    <d:Dependencies></d:Dependencies>
+    <d:DownloadCount m:type="Edm.Int32">0</d:DownloadCount>
+    <d:VersionDownloadCount m:type="Edm.Int32">6</d:VersionDownloadCount>
+    <d:GalleryDetailsUrl>https://community.chocolatey.org/packages/dart-sdk/3.8.2</d:GalleryDetailsUrl>
+    <d:ReportAbuseUrl>https://community.chocolatey.org/package/ReportAbuse/dart-sdk/3.8.2</d:ReportAbuseUrl>
+    <d:IconUrl>https://dart.dev/assets/img/logo/dart-64.png</d:IconUrl>
+    <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+    <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">false</d:IsAbsoluteLatestVersion>
+    <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+    <d:Language m:null="true"></d:Language>
+    <d:Published m:type="Edm.DateTime">2025-07-17T08:01:33.687</d:Published>
+    <d:LicenseUrl>https://opensource.org/licenses/BSD-3-Clause</d:LicenseUrl>
+    <d:RequireLicenseAcceptance m:type="Edm.Boolean">false</d:RequireLicenseAcceptance>
+    <d:PackageHash>WWBFmPXEHHi1rqksvmziBPn7DgI13j/TP+T46p2dkfFWUomzvUR1sjZLzG2/DoW33c4Hsb0gKYy5weqh1F0jTg==</d:PackageHash>
+    <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+    <d:PackageSize m:type="Edm.Int64">3302</d:PackageSize>
+    <d:ProjectUrl>https://dart.dev/</d:ProjectUrl>
+    <d:ReleaseNotes>https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md</d:ReleaseNotes>
+    <d:ProjectSourceUrl>https://github.com/dart-lang/sdk</d:ProjectSourceUrl>
+    <d:PackageSourceUrl>https://github.com/dart-lang/chocolatey-packages</d:PackageSourceUrl>
+    <d:DocsUrl>https://api.dart.dev/</d:DocsUrl>
+    <d:MailingListUrl>https://groups.google.com/a/dartlang.org/forum/#!forum/misc</d:MailingListUrl>
+    <d:BugTrackerUrl>https://dartbug.com/</d:BugTrackerUrl>
+    <d:IsApproved m:type="Edm.Boolean">true</d:IsApproved>
+    <d:PackageStatus>Approved</d:PackageStatus>
+    <d:PackageSubmittedStatus>Ready</d:PackageSubmittedStatus>
+    <d:PackageTestResultUrl>https://gist.github.com/choco-bot/ba7e9e55f0a7d51a5164410b5557173c</d:PackageTestResultUrl>
+    <d:PackageTestResultStatus>Passing</d:PackageTestResultStatus>
+    <d:PackageTestResultStatusDate m:type="Edm.DateTime">2025-07-17T12:40:59.467</d:PackageTestResultStatusDate>
+    <d:PackageValidationResultStatus>Passing</d:PackageValidationResultStatus>
+    <d:PackageValidationResultDate m:type="Edm.DateTime">2025-07-17T08:33:24.97</d:PackageValidationResultDate>
+    <d:PackageCleanupResultDate m:type="Edm.DateTime" m:null="true"></d:PackageCleanupResultDate>
+    <d:PackageReviewedDate m:type="Edm.DateTime">2025-07-17T13:04:59.237</d:PackageReviewedDate>
+    <d:PackageApprovedDate m:type="Edm.DateTime">2025-07-17T13:04:59.237</d:PackageApprovedDate>
+    <d:PackageReviewer></d:PackageReviewer>
+    <d:IsDownloadCacheAvailable m:type="Edm.Boolean">true</d:IsDownloadCacheAvailable>
+    <d:DownloadCacheStatus>Available</d:DownloadCacheStatus>
+    <d:DownloadCacheDate m:type="Edm.DateTime">2025-07-17T14:09:34.6020538Z</d:DownloadCacheDate>
+    <d:DownloadCache>https://storage.googleapis.com/dart-archive/channels/stable/release/3.8.2/sdk/dartsdk-windows-x64-release.zip^x64/dartsdk-windows-x64-release.zip^03DA80A42ADA64AD7B01481B54ACD8CF129689FF06CFB965FC347CC769398FDC75B993DFD480E236B9A8B44082A5AB51CA3BB5A59F03236973312495F99392C2</d:DownloadCache>
+    <d:PackageScanStatus>NotFlagged</d:PackageScanStatus>
+    <d:PackageScanResultDate m:type="Edm.DateTime">2025-07-17T13:04:59.237</d:PackageScanResultDate>
+    <d:PackageScanFlagResult>None</d:PackageScanFlagResult>
+  </m:properties>
+</entry>

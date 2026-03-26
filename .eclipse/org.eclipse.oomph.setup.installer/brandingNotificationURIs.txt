@@ -1,0 +1,1 @@
+https://www.eclipse.org/setups/sponsor/?scope=${scope}&campaign=2023-12

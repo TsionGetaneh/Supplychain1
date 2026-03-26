@@ -1,0 +1,7 @@
+[user]
+	name = TsionGetaneh
+	email = getanehtsion67@gmail.com
+[core]
+	autocrlf = input
+[http]
+	postBuffer = 524288000

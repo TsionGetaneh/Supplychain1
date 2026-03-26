@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Serif.Interop.Persona.Settings.CommandsSettings">
+	<Commands>
+		<Command type="Serif.Interop.Persona.ToggleFrameRulersContextBarItem, Serif.Interop.Persona, Version=3.0.2.3912, Culture=neutral, PublicKeyToken=null">
+			<Properties>
+				<Property key="ShowFrameRulers">
+					<Value xsi:type="xsd:boolean">False</Value>
+				</Property>
+			</Properties>
+		</Command>
+	</Commands>
+</Settings>

@@ -1,0 +1,8 @@
+[2025-12-11T17:43:39.526+03:00] Initialising IPC for Affinity 3.0.2.3912
+[2025-12-11T17:43:39.601+03:00] [Client] Starting IPC connection management
+[2025-12-11T17:43:39.607+03:00] [Client] Attempting to start local server...
+[2025-12-11T17:43:39.620+03:00] [Server] Started
+[2025-12-11T17:43:39.689+03:00] [Client] Local server has started; attempting to connect to it...
+[2025-12-11T17:43:39.696+03:00] [Server] Got new client 2 ("Affinity 3.0.2.3912")
+[2025-12-11T17:43:39.696+03:00] [Client] Connected to server
+[2025-12-11T17:56:56.043+03:00] [Client] Stopping IPC connection management
